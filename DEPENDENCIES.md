@@ -1,0 +1,42 @@
+# DEPS
+
+- [@react-native-async-storage/async-storage](https://www.npmjs.com/package/@react-native-async-storage/async-storage): "Asynchronous, persistent, key-value storage system for React Native."
+- [@react-navigation/bottom-tabs](https://www.npmjs.com/package/@react-navigation/bottom-tabs): "Bottom tab navigator for React Navigation following iOS design guidelines."
+- [@react-navigation/native](https://www.npmjs.com/package/@react-navigation/native): "React Native integration for React Navigation"
+- [@react-navigation/native-stack](https://www.npmjs.com/package/@react-navigation/native-stack): "Native stack navigator using react-native-screens"
+- [@react-navigation/stack](https://www.npmjs.com/package/@react-navigation/stack): "Stack navigator component for iOS and Android with animated transitions and gestures"
+- [axios](https://www.npmjs.com/package/axios): "Promise based HTTP client for the browser and node.js"
+- [expo](https://www.npmjs.com/package/expo): "Expo SDK"
+- [expo-localization](https://www.npmjs.com/package/expo-localization): "Provides an interface for native user localization information."
+- [expo-status-bar](https://www.npmjs.com/package/expo-status-bar): "Provides the same interface as the React Native StatusBar API, but with slightly different defaults to work great in Expo environments."
+- [i18n-js](https://www.npmjs.com/package/i18n-js): localization
+- [prop-types](https://www.npmjs.com/package/prop-types): "Runtime type checking for React props and similar objects."
+- [react](https://www.npmjs.com/package/react): "React is a JavaScript library for building user interfaces."
+- [react-dom](https://www.npmjs.com/package/react-dom): "React package for working with the DOM."
+- [react-native](https://www.npmjs.com/package/react-native): "A framework for building native apps using React"
+- [react-native-gesture-handler](https://www.npmjs.com/package/react-native-gesture-handler): "Experimental implementation of a new declarative API for gesture handling in react-native"
+- [react-native-reanimated](https://www.npmjs.com/package/react-native-reanimated): "More powerful alternative to Animated library for React Native."
+- [react-native-safe-area-context](https://www.npmjs.com/package/react-native-safe-area-context): "A flexible way to handle safe area, also works on Android and web."
+- [react-native-screens](https://www.npmjs.com/package/react-native-screens): "Native navigation primitives for your React Native app."
+- [react-native-web](https://www.npmjs.com/package/react-native-web): "React Native for Web"
+
+# DEV DEPS
+
+- [@babel/core](https://www.npmjs.com/package/@babel/core): "Babel compiler core."
+- [@babel/preset-env](https://www.npmjs.com/package/@babel/preset-env): "A Babel preset for each environment."
+- [babel-jest](https://www.npmjs.com/package/babel-jest): "Jest plugin to use babel for transformation."
+- [babel-loader](https://www.npmjs.com/package/babel-loader): "babel module loader for webpack"
+- [babel-preset-expo](https://www.npmjs.com/package/babel-preset-expo): "The Babel preset for Expo projects"
+- [detox](https://www.npmjs.com/package/detox): "E2E tests and automation for mobile"
+- [eslint](https://www.npmjs.com/package/eslint): "An AST-based pattern checker for JavaScript."
+- [eslint-plugin-node](https://www.npmjs.com/package/eslint-plugin-node): "Additional ESLint's rules for Node.js"
+- [eslint-plugin-react](https://www.npmjs.com/package/eslint-plugin-react): "React specific linting rules for ESLint"
+- [eslint-plugin-react-native](https://www.npmjs.com/package/eslint-plugin-react-native): "React Native specific linting rules for ESLint"
+- [jest](https://www.npmjs.com/package/jest): "Delightful JavaScript Testing."
+- [jest-environment-node](https://www.npmjs.com/package/jest-environment-node): no docs
+- [jest-expo](https://www.npmjs.com/package/jest-expo): "A Jest preset to painlessly test your Expo / React Native apps."
+- [jest-transform-stub](https://www.npmjs.com/package/jest-transform-stub): "Jest transform stub"
+- [prettier](https://www.npmjs.com/package/prettier): "Prettier is an opinionated code formatter"
+- [react-devtools](https://www.npmjs.com/package/react-devtools): "Use react-devtools outside of the browser"
+- [react-test-renderer](https://www.npmjs.com/package/react-test-renderer): "React package for snapshot testing."
+- [](): ""
