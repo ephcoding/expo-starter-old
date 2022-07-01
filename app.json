@@ -1,7 +1,7 @@
 {
 	"expo": {
-		"name": "expo-starter",
-		"slug": "expo-starter",
+		"name": "MODEVX Expo App Starter",
+		"slug": "modevx-expo-app-starter",
 		"version": "1.0.0",
 		"orientation": "portrait",
 		"icon": "./app/assets/icon.png",
