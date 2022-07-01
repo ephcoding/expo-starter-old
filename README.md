@@ -37,19 +37,19 @@
 # DEV DEPS
 
 - [@babel/core](https://www.npmjs.com/package/@babel/core): "Babel compiler core."
-- [@babel/preset-env](): ""
-- [babel-jest](): ""
-- [babel-loader](): ""
-- [detox](): ""
-- [eslint](): ""
-- [eslint-plugin-node](): ""
-- [eslint-plugin-react](): ""
-- [eslint-plugin-react-native](): ""
-- [jest](): ""
-- [jest-environment-node](): ""
-- [jest-expo](): ""
-- [prettier](): ""
-- [react-devtools](): ""
+- [@babel/preset-env](https://www.npmjs.com/package/@babel/preset-env): "A Babel preset for each environment."
+- [babel-jest](https://www.npmjs.com/package/babel-jest): "Jest plugin to use babel for transformation."
+- [babel-loader](https://www.npmjs.com/package/babel-loader): "babel module loader for webpack"
+- [detox](https://www.npmjs.com/package/detox): "E2E tests and automation for mobile"
+- [eslint](https://www.npmjs.com/package/eslint): "An AST-based pattern checker for JavaScript."
+- [eslint-plugin-node](https://www.npmjs.com/package/eslint-plugin-node): "Additional ESLint's rules for Node.js"
+- [eslint-plugin-react](https://www.npmjs.com/package/eslint-plugin-react): "React specific linting rules for ESLint"
+- [eslint-plugin-react-native](https://www.npmjs.com/package/eslint-plugin-react-native): "React Native specific linting rules for ESLint"
+- [jest](https://www.npmjs.com/package/jest): "Delightful JavaScript Testing."
+- [jest-environment-node](https://www.npmjs.com/package/jest-environment-node): no docs
+- [jest-expo](https://www.npmjs.com/package/jest-expo): "A Jest preset to painlessly test your Expo / React Native apps."
+- [prettier](https://www.npmjs.com/package/prettier): "Prettier is an opinionated code formatter"
+- [react-devtools](https://www.npmjs.com/package/react-devtools): "Use react-devtools outside of the browser"
 
 # GLOBAL INSTALLS
 
